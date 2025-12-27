@@ -1,0 +1,21 @@
+# Core
+numpy>=1.26
+scipy>=1.11
+
+# PyTorch (CPU)
+torch>=2.1
+torchvision>=0.16
+
+# ML utilities
+scikit-learn>=1.3
+
+# Plotting & visualization
+matplotlib>=3.8
+seaborn>=0.13
+
+# Progress & utils
+tqdm>=4.66
+imageio>=2.34
+
+# Optional but recommended (faster math)
+einops>=0.7
